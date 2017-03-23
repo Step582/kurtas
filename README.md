@@ -1,2 +1,0 @@
-# kurtas
-kurtas
