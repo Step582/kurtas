@@ -78,9 +78,9 @@ background: rgba(0,0,0,0.5) !important;
 	background: rgba(40, 120, 60, 0.25) !important;
 }
 #chat .focused, #room-settings .focused {
-    -webkit-box-shadow: inset 0 0 0 #286478!important;
-    -moz-box-shadow: inset 0 0 0 #286478!important;
-    box-shadow: inset 0 0 0 1px #286478!important;
+    -webkit-box-shadow: inset 0 0 0 #28783c!important;
+    -moz-box-shadow: inset 0 0 0 #28783c!important;
+    box-shadow: inset 0 0 0 1px #28783c!important;
 } 
 #chat .msg .text .name, #chat .msg .text .name .name {
     color: #FFF !important;
