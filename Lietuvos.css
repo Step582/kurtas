@@ -311,12 +311,11 @@ i.bdg.bdg-rave-o02.o{
         background-image:       url('http://i.imgur.com/bcjZJQT.jpg');
         background-size:        cover;
 }
-/* Voveriuke */
-
-#chat-messages .id-3627171 .badge-box i.bdg
-{
-        background-image:       url('http://i.imgur.com/3TOwwJw.jpg');
-        background-size:        cover;
+/**-TheRokas_UL**/
+#chat-messages .id-4458073 .badge-box i.bdg {
+  background-image: url('https://i.imgur.com/ASbqvll.png') !important;
+  background-size: cover;
+  background-position: center;
 }
 /* Vilius */
 
