@@ -94,7 +94,7 @@ background: rgba(0,0,0,0.5) !important;
     background: rgba(40, 100, 120, 0.2) !important;
 }
 #playlist-button, #playlist-menu .menu .row.selected, #playlist-activate-button, #playlist-import:hover, .media-list .row.selected, .tab-menu button.selected, #user-menu .item.selected, #room-settings-menu .item.selected {
-    background: rgba(40, 100, 120, 0.75) !important;
+    background: rgba(40, 120, 60, 0.75) !important;
 }
 .icon-check-circle, .icon-check-purple {
     background-position: -70px -140px !important;
@@ -315,7 +315,7 @@ i.bdg.bdg-rave-o02.o{
 
 #chat-messages .id-13505285 .badge-box i.bdg
 {
-        background-image:       url('https://i.imgur.com/KL7sI5N.png');
+        background-image:       url('https://media.giphy.com/media/5oy3j2dbgM5LG/giphy.gif');
         background-size:        cover;
 }
 /* Vilius */
