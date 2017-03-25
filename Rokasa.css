@@ -171,10 +171,16 @@ background: #25b961 !important;
         background-image:       url('https://media.giphy.com/media/qMkVu81wLKbcI/giphy.gif');
         background-size:        cover;
 }
-/* ♠ Maestro EA7 ♠ */
+/* MUZIKOS-Dj'S-BOT */
 
-#chat-messages .id-8801844 .badge-box i.bdg
+#chat-messages .id-25715721 .badge-box i.bdg
+{
+        background-image:       url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDM6i_l7PE2LZlyL_VjDeW1alEUVzYNgMB_rFKTaI3xfk6vBLf');
+        background-size:        cover;
+} 
+/* MUZIKOS-Dj'S-BOT */
+
+#chat-messages .id-25715751 .badge-box i.bdg
 {
         background-image:       url('http://i.imgur.com/K6HU7o9.gif');
         background-size:        cover;
-}
