@@ -150,11 +150,11 @@ background: #c42e3b !important;
 #dj-button .left {
 background: #25b961 !important;
 }
-/* -TheRokas_UL */
+/* -_X ᴜ ʟ ɪ ɢ ᴀ ɴ_- */
 
-#chat-messages .id-13770937 .badge-box i.bdg
+#chat-messages .id-5650340 .badge-box i.bdg
 {
-        background-image:       url('http://i.imgur.com/K6HU7o9.gif');
+        background-image:       url('http://www.smailikai.com/avatar/modernus_04/avatar_1273.png');
         background-size:        cover;
 } 
 /* -Mariukas ♥ */
@@ -169,5 +169,12 @@ background: #25b961 !important;
 #chat-messages .id-8801849 .badge-box i.bdg
 {
         background-image:       url('https://media.giphy.com/media/qMkVu81wLKbcI/giphy.gif');
+        background-size:        cover;
+}
+/* ♠ Maestro EA7 ♠ */
+
+#chat-messages .id-8801844 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/K6HU7o9.gif');
         background-size:        cover;
 }
