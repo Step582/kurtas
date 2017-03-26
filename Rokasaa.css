@@ -211,3 +211,11 @@ background: #25b961 !important;
 {
         background-image:       url('http://i.imgur.com/K6HU7o9.gif');
         background-size:        cover;
+}
+/* DEBESELIS_PAVESELIS */
+
+#chat-messages .id-5246980 .badge-box i.bdg
+{
+        background-image:       url('https://media.giphy.com/media/SU5KTCr3mC5i0/giphy.gif');
+        background-size:        cover;
+}
