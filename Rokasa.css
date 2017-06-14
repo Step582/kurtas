@@ -266,3 +266,10 @@ i.bdg.bdg-rave-o02.o{
 	position: relative !important;
     top: 55px !important;
 }
+/* Lietuvos-Vakarelis-BOTAS */
+
+#chat-messages .id-28091876 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/qh9I71G.png');
+        background-size:        cover;
+}
