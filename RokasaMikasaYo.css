@@ -145,15 +145,17 @@ color: #6ac1fe;
     border-left: 10px solid transparent !important;
     border-bottom: 10px solid transparent !important;
 }
-/***Mᴀʀɪᴜᴋᴀs 💙*/
-#chat-messages .id-13505285 .badge-box i.bdg {
-  background-image: url('https://i.imgur.com/E9OHKNi.png') !important;
-  background-size: cover;
-  background-position: center;
-}
-/*SwegulisDj*/
-#chat-messages .id-24134337 .badge-box i.bdg {
-  background-image: url('http://jacklynn.com/uploads/2012/09/bmw-series1-640x400.jpg') !important;
-  background-size: cover;
-  background-position: center;
+/* Lietuvos-Vakarelis-BOTAS */
+
+#chat-messages .id-28091876 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/qh9I71G.png');
+        background-size:        cover;
+} 
+/* PscihoKawaii */
+
+#chat-messages .id-27997531 .badge-box i.bdg
+{
+        background-image:       url('https://image.prntscr.com/image/hFAJV3EjTIqDlYvk93Oaig.png');
+        background-size:        cover;
 }
