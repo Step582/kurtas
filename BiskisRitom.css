@@ -6,11 +6,11 @@
     background-image: url('https://dl.dropboxusercontent.com/s/1nzgblxjnmvd4du/icons.png');
 }
 #room-bar .icon-room {
-  background: url(http://i.imgur.com/qh9I71G.png);
+  background: url(https://dl.dropbox.com/s/aw80ow0q62hzb1x/Room-logo.png);
   background-position: 0px 0px !important;
 }
 #room-bar:hover .icon-room {
-  background: url(http://i.imgur.com/qh9I71G.png);
+  background: url(https://dl.dropbox.com/s/aw80ow0q62hzb1x/Room-logo.png);
   background-position: 30px 0px !important;
 }
 
