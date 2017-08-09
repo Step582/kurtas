@@ -3680,6 +3680,58 @@
                     }
                 }
             },
+            
+            API.on(API.CHAT, blockads);
+
+function blockads(data) {
+
+ if(data.message.indexOf("Plug.dj") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+ if(data.message.indexOf("Plug.DJ") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+ if(data.message.indexOf("PLUG.DJ") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+  if(data.message.indexOf("Dubtrack.fm") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+  if(data.message.indexOf("DUBTRACK.FM") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+  if(data.message.indexOf("dubtrack.fm") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+  if(data.message.indexOf("plug.dj") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+ if(data.message.indexOf("hrajto.sk") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+  if(data.message.indexOf("Hrajto.sk") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+  if(data.message.indexOf("HRAJTO.SK") > -1)
+ {
+  API.moderateDeleteChat(data.cid);
+ }
+}
+ 
+                    }
+                }
+            }
+        }
+    }; 
 
             youtubeCommand: {
                 command: 'youtube',
